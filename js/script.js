@@ -1,8 +1,8 @@
 const productEffect = document.getElementById("watch1");
 
 productEffect.addEventListener("click", (event) => {
-    event.target.style.background = "black";
-    event.target.style.color = "white";
+    event.target.style.background = "white";
+    event.target.style.color = "black";
 });
 
 const productEffect1 = document.getElementById("watch2");
@@ -29,8 +29,8 @@ productEffect3.addEventListener("click", (event) => {
 const prodEffect = document.getElementById("bag1");
 
 prodEffect.addEventListener("click", (event) => {
-    event.target.style.background = "black";
-    event.target.style.color = "white";
+    event.target.style.background = "darkgrey";
+    event.target.style.color = "black";
 });
 
 const prodEffect1 = document.getElementById("bag2");
